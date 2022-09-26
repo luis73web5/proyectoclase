@@ -1,3 +1,5 @@
 Este es el documento B
 
 Esta es una prueba de que se puede trabajar con git
+
+Soy Briseidy y estamos viendo github
